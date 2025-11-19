@@ -1,32 +1,10 @@
-# INSTALLING AND RUNNING APPLICATIONS ON ANDROID STUDIO DATE
-
-## Step 1 - System Requirements:
-The required tools to develop Android applications are open source and can be downloaded from the
-Web. Following is the list of software you will need before you start your Android application
-programming.
-
-- Java JDK5 or later version
-- Java Runtime Environment (JRE)
-- Android Studio
-
-## Step 2 - Setup Android Studio:
-Android Studio is the official IDE for android application development.It works based on IntelliJ
-IDEA, You can download the latest version of android studio from Android Studio 2.2 Download, If
-you are new to installing Android Studio on windows,you will find a file, which is named
-as android-studio-bundle-143.3101438-windows.exe.So just download and run on windows machine
-according to android studio wizard guideline.
-
-If you are installing Android Studio on Mac or Linux, You can download the latest version from
-Android Studio Mac Download,or Android Studio Linux Download, check the instructions provided
-along with the downloaded file for Mac OS and Linux. This tutorial will consider that you are going
-to setup your environment on Windows machine having Windows 8.1 operating system. Installation
-So let's launch Android Studio.exe,Make sure before launch Android Studio, Our Machine should
-required installed Java JDK. To install Java JDK,take a references of Android environment setup
-
-<img width="643" height="498" alt="image" src="https://github.com/user-attachments/assets/14945440-bb5f-4056-ab77-fcdae5bbd304" />
-
-Once you launched Android Studio, its time to mention JDK7 path or later version in androidstudio
-installer.
-
+<img width="424" height="569" alt="Screenshot 2025-11-19 213432" src="https://github.com/user-attachments/assets/0631f7af-d5e6-4579-8ba9-8b5b60254745" />
+<img width="431" height="577" alt="Screenshot 2025-11-19 213444" src="https://github.com/user-attachments/assets/1d1bd8ab-a681-45a9-93a8-5f05a4c0d055" />
+<img width="429" height="568" alt="Screenshot 2025-11-19 213452" src="https://github.com/user-attachments/assets/774678ed-059d-4e82-8565-83c516484fa6" />
+<img width="425" height="570" alt="Screenshot 2025-11-19 213500" src="https://github.com/user-attachments/assets/729832cb-bdf3-49bc-8db9-4b950f3f88ef" />
+<img width="437" height="619" alt="Screenshot 2025-11-19 213507" src="https://github.com/user-attachments/assets/f2e8f307-07b0-49a9-b79f-9ecc84089388" />
+<img width="412" height="556" alt="Screenshot 2025-11-19 213514" src="https://github.com/user-attachments/assets/4b35e70a-d432-409a-95a6-57f9065736ac" />
+<img width="425" height="544" alt="Screenshot 2025-11-19 213522" src="https://github.com/user-attachments/assets/1e0dbcca-27f3-4b79-9615-5960740fdf56" />
+<img width="429" height="252" alt="Screenshot 2025-11-19 213530" src="https://github.com/user-attachments/assets/1719f739-778b-4f60-9e3d-820083705969" />
 
 
