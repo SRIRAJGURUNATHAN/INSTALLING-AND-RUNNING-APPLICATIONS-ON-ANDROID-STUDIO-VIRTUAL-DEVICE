@@ -22,6 +22,7 @@ along with the downloaded file for Mac OS and Linux. This tutorial will consider
 to setup your environment on Windows machine having Windows 8.1 operating system. Installation
 So let's launch Android Studio.exe,Make sure before launch Android Studio, Our Machine should
 required installed Java JDK. To install Java JDK,take a references of Android environment setup
+
 <img width="643" height="498" alt="image" src="https://github.com/user-attachments/assets/14945440-bb5f-4056-ab77-fcdae5bbd304" />
 
 
