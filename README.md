@@ -25,5 +25,8 @@ required installed Java JDK. To install Java JDK,take a references of Android en
 
 <img width="643" height="498" alt="image" src="https://github.com/user-attachments/assets/14945440-bb5f-4056-ab77-fcdae5bbd304" />
 
+Once you launched Android Studio, its time to mention JDK7 path or later version in androidstudio
+installer.
+
 
 
